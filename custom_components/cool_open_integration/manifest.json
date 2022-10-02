@@ -2,8 +2,8 @@
   "domain": "cool_open_integration",
   "name": "CoolAutomation Cloud Open Integration",
   "config_flow": true,
-  "documentation": "https://github.com/ShayGus/cool-open-integration/wiki",
-  "issue_tracker": "https://github.com/ShayGus/cool-open-integration/issues",
+  "documentation": "https://github.com/zeev-mindali/coolMaster/wiki",
+  "issue_tracker": "https://github.com/zeev-mindali/coolMaster/issues",
   "requirements": [
     "cool-open-client==0.0.7"
   ],
@@ -12,7 +12,7 @@
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@ShayGus"
+    "@zeev-mindali"
   ],
   "iot_class": "cloud_push",
   "version": "0.0.2",

@@ -1,0 +1,21 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "הרכיב כבר הוגדר"
+        },
+        "error": {
+            "cannot_connect": "תקלה בעת התחברות",
+            "invalid_auth": "שם משתמש או סיסמא שגויים",
+            "unknown": "תקלה לא ידועה"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "כתובת מארח",
+                    "password": "סיסמא",
+                    "username": "שם משתמש"
+                }
+            }
+        }
+    }
+}
